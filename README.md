@@ -6,8 +6,10 @@ Atividades para a matéria de Programação Web
 ## Como executar
 Os projetos estão utilizando o framework Django com a versão 3.10 do Python. Basta ter essa versão no seu desktop e utilizar o comando:
 ```pip install django```
+
 Para verificar se a instalação teve sucesso, basta utilizar o comando:
 ```django-admin --version```
+
 OBS: A instalação requer o uso do utilitário "pip" associado ao Python. Caso você não o tenha disponível, é possível instalá-lo de duas maneiras alternativas: utilizando o comando ```easy_install pip``` ou realizando uma pesquisa no site oficial para obter informações sobre sua instalação.
 
 Após todas as etapas:
